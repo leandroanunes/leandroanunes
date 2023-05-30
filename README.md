@@ -19,9 +19,9 @@
 ## Linguagens
 
 <div style="display:inline-block"><br>
-  <img align="center" alt="Ruby" title="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <!-- <img align="center" alt="Ruby" title="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> -->
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <!-- <img align="center" alt="Java" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> -->
   <img align="center" alt="Javascript" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -50,4 +50,4 @@
 
 ##
 
-<!--![Snake animation](https://github.com/leandroanunes/leandroanunes/blob/output/github-contribution-grid-snake.svg) --!>
+<!--![Snake animation](https://github.com/leandroanunes/leandroanunes/blob/output/github-contribution-grid-snake.svg) -->
