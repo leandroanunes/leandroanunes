@@ -49,5 +49,4 @@
 </div>
 
 ##
-
 ![Snake animation](https://github.com/leandroanunes/leandroanunes/blob/output/github-contribution-grid-snake.svg)
