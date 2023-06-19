@@ -1,7 +1,7 @@
 ### Olá, sejam bem vindos! 👋
 
 # Leandro Araujo Nunes
-- 🔭 I’m currently learning QA Tests Automated with Robot Framework, Ruby and Java
+- 🔭 I’m currently learning QA Tests Automated with Robot Framework
 - 📫 How to reach me: Look at my social networks below
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-araujo-nunes/)](https://www.linkedin.com/in/leandro-araujo-nunes/)
